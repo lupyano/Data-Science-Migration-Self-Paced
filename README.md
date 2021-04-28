@@ -1,5 +1,5 @@
 # Data-Science-Migration-Self-Paced
-Self Paced Area Migration.
+##Self Paced Area Migration.
 
 
 Very well this will be a kind of jonal to others mentioning how i managed to become a Data Scientist.
@@ -11,8 +11,9 @@ First things first... Learn to navigate on GITHUB (is not suposed to be that har
 
 good.. with that out of the way we star other things. (ok i started a few days ago but didn´t have the plan to write here...but well... why not!!)<br>
 
-just earned my SQL basics certificate, now i can undestand SQL language if needed, made on linkedin, very good material from professor Scott Simpson (may use some for my final purpose of building that text game... will see....)<br>
+just earned my SQL basics certificate, now i can undestand SQL language if needed, made on linkedin, very good material from professor Scott Simpson (may use some for my final purpose of building that text game... will see....)<br><br><br>
 
+Just learned that i can make a great journal on Jupyter Notebook... i guess i will migrate to it and the complete Code/library here!
 
 
 
