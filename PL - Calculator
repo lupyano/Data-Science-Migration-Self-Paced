@@ -1,0 +1,47 @@
+
+print("************************** Python Calculator **************************")
+
+#-----------------------------------------------------
+#for now with all variables defined we will make the operations in IF and eleif cases.
+def calc(a,b,c):
+    if b == 1:
+        d = a + c
+        print(a," + ",c," = ",d)
+
+    elif b == 2:
+        d = a - c
+        print(a," - ",c," = ",d)
+
+    elif b == 3:
+        d = a * c
+        print(a," * ",c," = ",d)
+
+    elif b == 4:
+        d = a / c
+        print(a," / ",c," = ",d)
+    else:
+        print("invalid choice, try again")
+#------------------------------------------------------        
+    
+def choice():
+    print("\n")
+    a = int(input("Type the first number on the operation :"))
+    print("""For the operation you can choose:"
+
+      Sum = 1
+      Subtraction = 2
+      Multiplication = 3
+      Division = 4
+
+      """)
+    b = int(input("Type the operation :"))
+    print("\n")
+    c = int(input("Type the second number on the operation :"))
+    print("\n")
+    print("\n")
+    print("\n")
+    #chama a função de condições!!
+    calc(a,b,c)
+#-------------------------------------------------------------
+
+choice()
