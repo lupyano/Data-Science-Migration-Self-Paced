@@ -13,7 +13,11 @@ good.. with that out of the way we star other things. (ok i started a few days a
 
 just earned my SQL basics certificate, now i can undestand SQL language if needed, made on linkedin, very good material from professor Scott Simpson (may use some for my final purpose of building that text game... will see....)<br><br><br>
 
-Just learned that i can make a great journal on Jupyter Notebook... i guess i will migrate to it and the complete Code/library here!
+Just learned that i can make a great journal on Jupyter Notebook... i guess i will migrate to it and the complete Code/library here!<br>
+
+
+so the first task is ready. a simple calculator on python check in the learning python section.
+
 
 
 
