@@ -18,6 +18,14 @@ Just learned that i can make a great journal on Jupyter Notebook... i guess i wi
 
 so the first task is ready. a simple calculator on python check in the learning python section.
 
+since i have knowlegde of classes and objects i will start making the "game". <br>
+the gamae is suposed to be a simple text game (for now) the will be an RPG in some sort.
+
+the idea is that You and your party to walk in the world defeating monsters in certain enviroments.<br>
+
+so.. the game will have basically 4 Classes: 1 Party , 2 Monsters, 3 Maps , 4 NPC.
+
+EVENTUALLY i plan (if possible!) on making the code go for a mySQL database to get some parameters.
 
 
 
