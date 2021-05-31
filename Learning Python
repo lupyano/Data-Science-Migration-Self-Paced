@@ -14,3 +14,38 @@ Using Python on ANACONDA since the plan is to use on Data Science. and also usin
 
 As first project i will make a simple calculator, with the four basics operations. <a href src= https://github.com/lupyano/Data-Science-Migration-Self-Paced/blob/main/PL%20-%20Calculator> Link here! <\a>
 
+the calculator server its purpose and is workin nicelly!
+
+the second task is to create a game called HANGMAN, easy game to play not many variables and a good way to learn
+how objects work.
+
+i manage to make some corelation with a real life.
+hope it make sense for you ... 
+
+i was getting stucked for some time trying to figure how objects work and the "order" they neede to be inserted in the program to make it run.
+
+not so long ago i manage to make the following "alegory"
+
+lets think we have to make a hole in the wall to hang a painting or something like that.
+
+there are SEVERAL ways to do it. i can literally punch a hole in the wall if you wish, not the best way though.
+
+so what are the steps that i chosed to make...
+
+i will take my "tool box" take it nex to the wall open it, select the drill, put the correct drilling toolon the drill, make the hole fit the bushings, after this done i wouild place the correct screw.
+
+
+since i took all tooks from the toolbox... i would call my toolbox a "class" inside the class (toolbox) is my functions or methods (tools)
+
+
+so the computer (us) will take a glance at all the tools inside the box an only after calling (deciding) the function that it come into play
+
+so there is no need to be organized in execution sequence. pretty smart!!
+
+
+the concept is cool... the application not so much.... struggle a litte to make the game work.
+ou can check in the link(ksdnçklgnas) the code.
+
+
+
+
